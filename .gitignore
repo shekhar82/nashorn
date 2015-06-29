@@ -16,3 +16,5 @@
 .idea/workspace.xml
 
 out/production/HelloWorld/com/example/HelloWorld.class
+
+.idea/uiDesigner.xml
