@@ -1,0 +1,16 @@
+
+*.iml
+
+.idea/compiler.xml
+
+.idea/.name
+
+.idea/misc.xml
+
+.idea/modules.xml
+
+.idea/copyright/profiles_settings.xml
+
+.idea/vcs.xml
+
+.idea/workspace.xml
